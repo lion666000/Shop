@@ -5,35 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef3230a-eb4c-4897-b2eb-f8a94f4fb7f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/elektroshop/Spotreba.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/autosaloon/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autosaloon/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/autosaloon/CarDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autosaloon/CarDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autosaloon/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autosaloon/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elektroshop/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elektroshop/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elektroshop/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elektroshop/Items.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lion666000"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lion666000&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lion666000/Shop.git",
-    "accountId": "88e42d1d-6cdf-4ffd-984c-5ed9ca0646a6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lion666000/Shop.git&quot;,
+    &quot;accountId&quot;: &quot;88e42d1d-6cdf-4ffd-984c-5ed9ca0646a6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2tRlUJUlXxyq2ZBlR5G8vC4331L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +53,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "H:/PRG/Java/IdeaProjects/projekt_Skola",
@@ -72,8 +82,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740464564483</updated>
       <workItem from="1740464565597" duration="4213000" />
+      <workItem from="1741080772546" duration="4153000" />
     </task>
     <servers />
   </component>

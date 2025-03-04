@@ -14,7 +14,7 @@ public class Main {
         String vstup ="";
 
         while(!vstup.equals("0")) {
-            System.out.println("Vitejde v obchode. Pro vstup do autosalonu stisknete 1, pro vstup do kina 1, pro vstup do elektro obchodu 3, pro vstup do knihovny 4 a pro vstup do video pujcovny 5.");
+            System.out.println("Vitejde v obchode. Pro vstup do autosalonu stisknete 1, pro vstup do knihkupectvi 2, pro vstup do kina 3, pro vstup do elektroshopu 4 a pro vstup do knihovny 5.");
             System.out.println("Pro ukonceni programu stisknete 0.");
             vstup = sc.nextLine();
 
@@ -26,6 +26,8 @@ public class Main {
                     sc.nextLine();
                     carDatabase.addCars(pocet);
                     carDatabase.printCarInGoodCondition();
+                    carDatabase.printInterestingFacts();
+                    carDatabase.printCarMostKm();
                     break;
                 case "2":
                     BookStore knihkupectvi = new BookStore();
@@ -41,12 +43,16 @@ public class Main {
                     film.printInfo();
                     break;
                 case "4":
+                    System.out.println("Toto je elektroshop");
                     Items items = new Items();
                     System.out.println("Kolik si prejete pridat položek?");
                     pocet = sc.nextInt();
                     sc.nextLine();
                     items.addItems(pocet);
                     items.printInfo();
+                    items.fridgeSpotrebaA();
+                    items.printInfo();
+                    items.fridgePocetSpotreb();
                     break;
                 case "5":
                     Library library = new Library();

@@ -47,7 +47,11 @@ public class Car {
     }
 
     public void printInfo(){
-        System.out.println("Výroba: "+rokVyroby+", Najeté Km: "+pocetKm+", Barva: "+barva+", Stav auta: "+stavAuta);
+        System.out.println("Info o aute");
+        System.out.println("Rok Vyroby: "+rokVyroby);
+        System.out.println("Pocet Km: "+pocetKm);
+        System.out.println("Barva: "+barva);
+        System.out.println("Stav auta: "+stavAuta);
     }
 
 	
