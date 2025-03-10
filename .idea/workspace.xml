@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef3230a-eb4c-4897-b2eb-f8a94f4fb7f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/elektroshop/Spotreba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cinema/Gender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autosaloon/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autosaloon/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autosaloon/CarDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autosaloon/CarDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elektroshop/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elektroshop/Fridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elektroshop/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elektroshop/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cinema/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cinema/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cinema/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cinema/People.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +32,12 @@
     &quot;assignee&quot;: &quot;lion666000&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/lion666000/Shop.git&quot;,
-    &quot;accountId&quot;: &quot;88e42d1d-6cdf-4ffd-984c-5ed9ca0646a6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lion666000/Shop.git",
+    "accountId": "069a8106-98c1-40bf-aac3-afc4c945639e"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -49,22 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "H:/PRG/Java/IdeaProjects/projekt_Skola",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/PRG/Java/IdeaProjects/projekt_Skola&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cinema" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -82,8 +85,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
       </set>
     </attachedChunks>
   </component>
@@ -97,6 +100,7 @@
       <updated>1740464564483</updated>
       <workItem from="1740464565597" duration="4213000" />
       <workItem from="1741080772546" duration="4153000" />
+      <workItem from="1741603533025" duration="2505000" />
     </task>
     <servers />
   </component>

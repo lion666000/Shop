@@ -35,12 +35,13 @@ public class Main {
                     knihkupectvi.printInfo();
                     break;
                 case "3":
-                    Film film = new Film();
+                    Film film = new Film("Jujuland",1969);
                     System.out.println("Kolik si prejete pridat hercu?");
                     pocet = sc.nextInt();
                     sc.nextLine();
                     film.addActors(pocet);
                     film.printInfo();
+                    film.pocetpohlavi();
                     break;
                 case "4":
                     System.out.println("Toto je elektroshop");
