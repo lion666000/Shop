@@ -1,13 +1,12 @@
 package library;
 
-
-public class Book implements IItem{
+public class Magazine implements IItem{
     private String nazev;
     private String jmeno;
     private int strany;
 
 
-    Book(String nazev, String jmeno, int strany){
+    Magazine(String nazev, String jmeno, int strany){
         this.nazev = nazev;
         this.jmeno = jmeno;
         this.strany = strany;
@@ -15,10 +14,10 @@ public class Book implements IItem{
 
 
     public void printInfo(){
-        System.out.println("Kniha s názvem "+nazev+" má "+ strany + " stran a napsal ji "+jmeno+".");
+        System.out.println("Časopis s názvem "+nazev+" má "+ strany + " stran a redakce je "+jmeno+".");
     }
 
     public void printDelka() {
-        System.out.println("Kniha má "+strany+" stran.");
+        System.out.println("Časopis má "+strany+" stran.");
     }
 }

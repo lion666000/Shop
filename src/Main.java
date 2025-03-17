@@ -60,7 +60,10 @@ public class Main {
                     System.out.println("Kolik si prejete pridat položek?");
                     pocet = sc.nextInt();
                     sc.nextLine();
-                    library.addItems(pocet);
+                    System.out.println("Kolik si prejete pridat časopisů?");
+                    int z = sc.nextInt();
+                    sc.nextLine();
+                    library.addItems(pocet,z);
                     library.printInfo();
                     break;
                 case "6":
